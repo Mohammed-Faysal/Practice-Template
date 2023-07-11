@@ -23,7 +23,7 @@ _He is a very Good boy_
 My name is __Mohammed Faysal__  
 ~~Pen through the line~~
 
-`consol.log("Mohammed Faysal")`
+`consol.log("My name is Mohammed Faysal")`
 
 ```css
 *{
